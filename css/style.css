@@ -1,24 +1,24 @@
 @font-face {
     font-family: 'Gotham Pro Light';
-    src: url('/fonts/GothamPro-Light.woff') format('woff');
+    src: url('fonts/GothamPro-Light.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Gotham Pro';
-    src: url('/fonts/GothamPro.woff') format('woff');
+    src: url('fonts/GothamPro.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Gotham Pro Medium';
-    src: url('/fonts/GothamPro-Medium.woff') format('woff');
+    src: url('fonts/GothamPro-Medium.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Gotham Pro Bold';
-    src: url('/fonts/GothamPro-Bold.woff') format('woff');
+    src: url('fonts/GothamPro-Bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -147,10 +147,10 @@ body {
     position: relative;
 }
 .review-image-1 {
-    background: #000 url(/img/reviews/review-1.jpg);
+    background: #000 url(img/reviews/review-1.jpg);
 }
 .review-image-2 {
-    background: #000 url(/img/reviews/review-2.jpg);
+    background: #000 url(img/reviews/review-2.jpg);
 }
 .review-name {
     margin-bottom: 7px;
