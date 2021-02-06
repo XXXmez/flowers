@@ -44,21 +44,21 @@ document.addEventListener("DOMContentLoaded", () => {
   $('#reviews-1').on('click', function() {
     $.fancybox.open([
       {
-        src  : '../img/reviews/fanc/reviews1-1.jpg',
+        src  : '/img/reviews/fanc/reviews1-1.jpg',
         opts : {
           caption : 'First caption',
           thumb   : '1_s.jpg'
         }
       },
       {
-        src  : '../img/reviews/fanc/reviews1-2.jpg',
+        src  : '/img/reviews/fanc/reviews1-2.jpg',
         opts : {
           caption : 'Second caption',
           thumb   : '2_s.jpg'
         }
       },
       {
-        src  : '../img/reviews/fanc/reviews1-3.jpg',
+        src  : '/img/reviews/fanc/reviews1-3.jpg',
         opts : {
           caption : 'Second caption',
           thumb   : '2_s.jpg'
